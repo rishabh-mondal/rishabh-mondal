@@ -16,9 +16,12 @@ I am Rishabh (ঋষভ). I am a PhD student in Computer Science and Engineering
 #### Last updated: 28th Jun 2024
 
 #### GitHub Stats
+#### GitHub Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rihsbah-mondal&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabh-mondal&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact&theme=radical" />
 </a>
