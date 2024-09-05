@@ -11,9 +11,9 @@ I am Rishabh (ঋষভ). I am a PhD student in Computer Science and Engineering
 
 </div>
 
-#### Website: [patel-zeel.github.io](https://patel-zeel.github.io/)
+#### Website: [rishabh-mondal.github.io](https://rishabh-mondal.github.io/)
 
-#### Last updated: 28th Jun 2024
+#### Last updated: 2024-09-01
 
 #### GitHub Stats
 #### GitHub Stats
