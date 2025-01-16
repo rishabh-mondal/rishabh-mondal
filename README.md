@@ -4,7 +4,7 @@
 Rishabh (ঋষভ) is PhD student in Computer Science and Engineering at the <a style="text-decoration:none" href="https://nipunbatra.github.io/lab/">Sustainability lab</a>, <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by Prof. <a style="text-decoration:none" href="https://nipunbatra.github.io">Nipun Batra</a>. His research area of interest is "AI for Social Good Using Satellite Data".
 
 <!-- <img src="https://github.com/rishabh-mondal/rishabh-mondal/blob/main/img.webp"width="100" height="50"/> -->
-<img src="https://github.com/rishabh-mondal/rishabh-mondal/blob/main/img.webp" width="600" height="350" />
+<img src="https://github.com/rishabh-mondal/rishabh-mondal/blob/main/img.webp" width="600" height="400" />
 
 
 #### Research Interests
@@ -19,7 +19,6 @@ Rishabh (ঋষভ) is PhD student in Computer Science and Engineering at the <a
 
 #### Last updated: 2024-09-01
 
-#### GitHub Stats
 #### GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
