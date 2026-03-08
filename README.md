@@ -16,8 +16,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-mondal&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=6366F1&text_color=333333" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=333333" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishabh-mondal&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=6366F1&text_color=333333" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=333333" height="180"/>
 </p>
 
 <p align="center">
