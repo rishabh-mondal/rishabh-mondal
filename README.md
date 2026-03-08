@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabh-mondal&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" alt="Footer Wave"/>
 </p>
 
 ---
