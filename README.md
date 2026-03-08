@@ -42,13 +42,7 @@
 <h3 align="center">Visitors from Around the World</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rishabh-mondal/count.svg" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rishabh-mondal">
-    <img src="https://visitcount.itsvg.in/api?id=rishabh-mondal&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-mondal&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -69,8 +63,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabh-mondal&style=flat-square&color=6366F1" alt="Profile Views"/>
 </p>
