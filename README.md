@@ -16,16 +16,16 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-mondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-mondal&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=6366F1&text_color=333333" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=333333" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-mondal&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-mondal&hide_border=true&background=FFFFFF&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=333333&sideLabels=333333&dates=333333&currStreakNum=333333" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh-mondal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh-mondal&hide_border=true&bg_color=FFFFFF&color=6366F1&line=6366F1&point=333333&area=true&area_color=6366F1" alt="Activity Graph"/>
 </p>
 
 <picture>
