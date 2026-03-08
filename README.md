@@ -53,11 +53,9 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh-mondal/rishabh-mondal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabh-mondal/rishabh-mondal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rishabh-mondal/rishabh-mondal/output/github-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabh-mondal&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+</p>
 
 ---
 
