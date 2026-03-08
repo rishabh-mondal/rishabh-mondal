@@ -16,8 +16,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishabh-mondal&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=6366F1&text_color=333333" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabh-mondal&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=333333" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-mondal&theme=default" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabh-mondal&theme=default" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabh-mondal&theme=default" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabh-mondal&theme=default" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabh-mondal&theme=default&utcOffset=5.5" height="180"/>
 </p>
 
 <p align="center">
@@ -28,6 +37,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh-mondal&hide_border=true&bg_color=FFFFFF&color=6366F1&line=6366F1&point=333333&area=true&area_color=6366F1" alt="Activity Graph"/>
 </p>
 
+---
+
+<h3 align="center">Visitors from Around the World</h3>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rishabh-mondal/count.svg" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rishabh-mondal">
+    <img src="https://visitcount.itsvg.in/api?id=rishabh-mondal&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://info.flagcounter.com/2uNG">
+    <img src="https://s01.flagcounter.com/count2/2uNG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"/>
+  </a>
+</p>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabh-mondal/rishabh-mondal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabh-mondal/rishabh-mondal/output/github-snake.svg" />
@@ -35,6 +66,10 @@
 </picture>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabh-mondal&style=flat-square&color=6366F1" alt="Profile Views"/>
