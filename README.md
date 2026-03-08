@@ -39,14 +39,6 @@
 
 ---
 
-<h3 align="center">Detailed GitHub Metrics</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishabh-mondal/rishabh-mondal/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
----
-
 <h3 align="center">Visitors from Around the World</h3>
 
 <p align="center">
