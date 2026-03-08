@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAbout/main/code.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" alt="Earth Satellite"/>
 </p>
 
 ---
