@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" alt="Footer Wave"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAbout/main/code.gif" width="400" alt="Coding GIF"/>
 </p>
 
 ---
