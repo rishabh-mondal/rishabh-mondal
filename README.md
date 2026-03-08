@@ -59,13 +59,13 @@
   </a>
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" alt="Earth Satellite"/>
 </p>
 
----
+--- -->
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
