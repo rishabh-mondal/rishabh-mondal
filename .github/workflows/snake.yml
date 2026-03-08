@@ -4,10 +4,17 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+<<<<<<< HEAD
 
 permissions:
   contents: write
 
+=======
+  
+permissions:
+  contents: write
+  
+>>>>>>> 153be674ff4d3ea37953c81e2d3ca7d6a7b205a7
 jobs:
   build:
     runs-on: ubuntu-latest
